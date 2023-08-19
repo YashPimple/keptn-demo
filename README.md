@@ -1,5 +1,4 @@
-# Kubernetes Community Days Mumbai 2023
-## Keptn Metrics Provider Demo
+## Observability through Keptn Metrics Demo
 
 ## Pre-requisites
 
